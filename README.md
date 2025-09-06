@@ -70,6 +70,11 @@ vim /etc/zabbix_agentd.conf
 
 ## Задание 3
 
+Изначально для каждого сервера был свой шаблон, потом они были слиты и использовался только первый
+
+так как команда для цпу бралась из шаблона linux by zabbix agent пришлось погуглилить и изменить на proc.cpu.util
+
+Так же проверл тесты с загруской пасяти и цпу - на скриншотах.
 
 ![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_506.png)
 
@@ -112,6 +117,12 @@ vim /etc/zabbix_agentd.conf
 ![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_525.png)
 
 ![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_526.png)
+
+
+На задании со сзвездой прям на первом не смог понять как прикрутить именно agent.ping, в списке его нет.
+
+
+
 
 
 
