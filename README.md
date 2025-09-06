@@ -1,6 +1,6 @@
 # netology-zabbix-hw
 
-#2 Задание 1
+# Задание 1
 
 https://github.com/netology-code/smon-homeworks/blob/main/hw-01-new.md
 
@@ -14,7 +14,7 @@ https://github.com/netology-code/smon-homeworks/blob/main/hw-01-new.md
 ![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_287.png)
 
 
-## Задание 2
+# Задание 2
 
 https://github.com/netology-code/smon-homeworks/blob/main/hw-02.md
 
@@ -68,7 +68,7 @@ vim /etc/zabbix_agentd.conf
 Через GUI
 
 
-## Задание 3
+# Задание 3
 
 Изначально для каждого сервера был свой шаблон, потом они были слиты и использовался только первый
 
