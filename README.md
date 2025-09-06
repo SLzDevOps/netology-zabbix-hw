@@ -70,6 +70,9 @@ vim /etc/zabbix_agentd.conf
 
 # Задание 3
 
+https://github.com/netology-code/smon-homeworks/blob/main/hw-03.md
+
+
 Изначально для каждого сервера был свой шаблон, потом они были слиты и использовался только первый
 
 так как команда для цпу бралась из шаблона linux by zabbix agent пришлось погуглилить и изменить на proc.cpu.util
