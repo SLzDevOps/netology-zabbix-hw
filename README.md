@@ -68,6 +68,50 @@ vim /etc/zabbix_agentd.conf
 Через GUI
 
 
+## Задание 3
+
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_506.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_507.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_508.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_509.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_510.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_511.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_512.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_513.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_514.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_515.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_516.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_517.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_518.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_519.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_520.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_521.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_522.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_523.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_524.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_525.png)
+
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_526.png)
 
 
 
