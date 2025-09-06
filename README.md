@@ -122,7 +122,8 @@ vim /etc/zabbix_agentd.conf
 На задании со сзвездой прям на первом не смог понять как прикрутить именно agent.ping, в списке его нет.
 
 
-
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_527.png)
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_528.png)
 
 
 
