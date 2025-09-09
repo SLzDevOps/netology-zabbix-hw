@@ -144,3 +144,18 @@ https://github.com/netology-code/smon-homeworks/blob/main/hw-03.md
 
 
 
+# "Система мониторинга Prometheus 2"
+'
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_318.png)
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_319.png)
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_320.png)
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_321.png)
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_322.png)
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_323.png)
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_324.png)
+![alt text](https://github.com/SLzDevOps/netology-zabbix-hw/blob/main/Screenshot_325.png)
+
+
+
+
+
